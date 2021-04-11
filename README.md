@@ -1,1 +1,2 @@
-# IBM-Cognos-Projects-
+# IBM-Cognos-Projects- 
+School projects using IBM Cognos Analytics 
